@@ -1,0 +1,19 @@
+* First steps
+** TODO make the core html files
+*** TODO index.html
+**** Explains what the site is all about
+**** Has a button to "join the classroom" if you haven't
+**** Top bar with account, level, etc
+*** TODO story.html
+**** TODO has text, images, and audio
+*** TODO flashcards.html
+**** TODO given a sentence from a story and an underlined word choose the correct english translation of the word in that context
+**** TODO given a sentence from a story and an underlined word choose the correct phonetic transcription (romaji / kanji) of the word in that context
+*** TODO library.html
+**** TODO can go to different sections of the library (shelves) with books on different topics
+**** TODO can pick a book and open it
+*** TODO theatre.html
+**** TODO embedded youtube video
+**** TODO captions for that video
+**** TODO some way of selecting different videos / channels (video topics / youtube channels)
+*** TODO profile.html
